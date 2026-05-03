@@ -1,0 +1,12 @@
+# Búsqueda y Extracción de información
+duckduckgo-search
+wikipedia
+trafilatura
+
+# Generación de Reportes
+fpdf2
+python-dotenv
+
+# IA y Orquestación (LiteLLM y ADK)
+litellm
+google-adk

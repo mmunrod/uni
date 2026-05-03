@@ -1,0 +1,29 @@
+{
+    "title": "Sistemas Multiagente en la Gestion de Emergencias",
+    "sections": [
+        {
+            "name": "Introduccion",
+            "word_count": 173
+        },
+        {
+            "name": "Arquitectura tipica de un Sistema Multiagente para Emergencias",
+            "word_count": 263
+        },
+        {
+            "name": "Caso de estudio: Sistema Multiagente de Rescate con UAV y UGV",
+            "word_count": 222
+        },
+        {
+            "name": "Desafios y lineas de investigacion futuras",
+            "word_count": 239
+        },
+        {
+            "name": "Conclusiones",
+            "word_count": 119
+        }
+    ],
+    "total_words": 1016,
+    "num_sections": 5,
+    "num_references": 2,
+    "pdf_path": "/home/mmunrod/uni/ain/Trabajo-AIN-lab/agent/output/Sistemas_Multiagente_en_la_Gestion_de_Emergencias.pdf"
+}

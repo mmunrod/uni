@@ -1,0 +1,173 @@
+Lines: 127
+Number words (including stopwords): 127
+Vocabulary size: 127
+Number of symbols: 495
+Number of different symbols: 22
+Words (alphabetical order):
+	a: 1
+	about: 1
+	above: 1
+	after: 1
+	again: 1
+	against: 1
+	all: 1
+	am: 1
+	an: 1
+	and: 1
+	any: 1
+	are: 1
+	as: 1
+	at: 1
+	be: 1
+	because: 1
+	been: 1
+	before: 1
+	being: 1
+	below: 1
+Words (by frequency):
+	a: 1
+	about: 1
+	above: 1
+	after: 1
+	again: 1
+	against: 1
+	all: 1
+	am: 1
+	an: 1
+	and: 1
+	any: 1
+	are: 1
+	as: 1
+	at: 1
+	be: 1
+	because: 1
+	been: 1
+	before: 1
+	being: 1
+	below: 1
+Symbols (alphabetical order):
+	a: 28
+	b: 12
+	c: 6
+	d: 12
+	e: 66
+	f: 15
+	g: 7
+	h: 45
+	i: 26
+	j: 1
+	l: 17
+	m: 14
+	n: 29
+	o: 48
+	p: 1
+	r: 32
+	s: 36
+	t: 38
+	u: 21
+	v: 8
+Symbols (by frequency):
+	e: 66
+	o: 48
+	h: 45
+	t: 38
+	s: 36
+	r: 32
+	n: 29
+	a: 28
+	i: 26
+	u: 21
+	w: 20
+	l: 17
+	f: 15
+	m: 14
+	y: 13
+	b: 12
+	d: 12
+	v: 8
+	g: 7
+	c: 6
+Word Bigrams (alphabetical order):
+	$ a: 1
+	$ about: 1
+	$ above: 1
+	$ after: 1
+	$ again: 1
+	$ against: 1
+	$ all: 1
+	$ am: 1
+	$ an: 1
+	$ and: 1
+	$ any: 1
+	$ are: 1
+	$ as: 1
+	$ at: 1
+	$ be: 1
+	$ because: 1
+	$ been: 1
+	$ before: 1
+	$ being: 1
+	$ below: 1
+Word Bigrams (by frequency):
+	$ a: 1
+	$ about: 1
+	$ above: 1
+	$ after: 1
+	$ again: 1
+	$ against: 1
+	$ all: 1
+	$ am: 1
+	$ an: 1
+	$ and: 1
+	$ any: 1
+	$ are: 1
+	$ as: 1
+	$ at: 1
+	$ be: 1
+	$ because: 1
+	$ been: 1
+	$ before: 1
+	$ being: 1
+	$ below: 1
+Symbol Bigrams (alphabetical order):
+	ab: 2
+	ac: 1
+	ad: 1
+	af: 1
+	ag: 2
+	ai: 2
+	al: 1
+	am: 2
+	an: 5
+	ar: 1
+	as: 3
+	at: 3
+	au: 1
+	av: 2
+	be: 7
+	bo: 3
+	bu: 1
+	by: 1
+	ca: 2
+	ce: 1
+Symbol Bigrams (by frequency):
+	he: 19
+	th: 18
+	er: 13
+	ou: 12
+	se: 11
+	el: 9
+	ur: 9
+	in: 8
+	rs: 8
+	wh: 8
+	be: 7
+	ha: 7
+	re: 7
+	ve: 7
+	hi: 6
+	an: 5
+	do: 5
+	es: 5
+	ho: 5
+	lf: 5
