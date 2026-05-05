@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\bin\Debug\HelloWorldApp.exe.config
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\bin\Debug\HelloWorldApp.exe
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\bin\Debug\HelloWorldApp.pdb
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\obj\Debug\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\obj\Debug\HelloWorldApp.exe
+C:\Users\usuario\source\repos\ManteHos\HelloWorldApp\obj\Debug\HelloWorldApp.pdb

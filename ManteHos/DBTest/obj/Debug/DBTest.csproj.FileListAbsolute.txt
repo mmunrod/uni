@@ -1,0 +1,15 @@
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\DBTest.exe.config
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\DBTest.exe
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\DBTest.pdb
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\ManteHosLib.dll
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\ManteHosLib.pdb
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\ManteHosLib.dll.config
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\ManteHos\DBTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\ManteHos\DBTest\obj\Debug\DBTest.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ManteHos\DBTest\obj\Debug\DBTest.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ManteHos\DBTest\obj\Debug\DBTest.csproj.Up2Date
+C:\Users\usuario\source\repos\ManteHos\DBTest\obj\Debug\DBTest.exe
+C:\Users\usuario\source\repos\ManteHos\DBTest\obj\Debug\DBTest.pdb

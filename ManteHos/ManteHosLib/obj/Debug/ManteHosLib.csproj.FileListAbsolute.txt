@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\ManteHosLib.dll.config
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\ManteHosLib.dll
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\ManteHosLib.pdb
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\EntityFramework.dll
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\EntityFramework.xml
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\obj\Debug\ManteHosLib.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\obj\Debug\ManteHosLib.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\obj\Debug\ManteHos.E4DB587D.Up2Date
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\obj\Debug\ManteHosLib.dll
+C:\Users\usuario\source\repos\ManteHos\ManteHosLib\obj\Debug\ManteHosLib.pdb

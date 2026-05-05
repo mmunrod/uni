@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\source\\repos\\ManteHos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|c:\\users\\usuario\\source\\repos\\mantehos\\mantehoslib\\persistence\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\persistence\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\persistence\\entities\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\persistence\\entities\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\businesslogic\\entities\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\businesslogic\\entities\\incident.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\businesslogic\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\businesslogic\\entities\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0987454-F131-4859-B5C1-D60A07C18BC3}|UnitTestExtra\\UnitTestExtra.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\unittestextra\\closeworkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0987454-F131-4859-B5C1-D60A07C18BC3}|UnitTestExtra\\UnitTestExtra.csproj|solutionrelative:unittestextra\\closeworkorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\businesslogic\\services\\mantehosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\businesslogic\\services\\mantehosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\businesslogic\\entities\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\businesslogic\\entities\\workorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehoslib\\businesslogic\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B10FC7FA-71E8-45D6-9E73-9AE23EA1CA6C}|ManteHosLib\\ManteHosLib.csproj|solutionrelative:mantehoslib\\businesslogic\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B96769-8C46-4E82-9109-A08A11062168}|ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj|C:\\Users\\usuario\\source\\repos\\ManteHos\\mantehosobjectdesigntests\\workordertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B96769-8C46-4E82-9109-A08A11062168}|ManteHosObjectDesignTests\\ManteHosObjectDesignTests.csproj|solutionrelative:mantehosobjectdesigntests\\workordertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\Persistence\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\Persistence\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\Persistence\\Entities\\Employee.cs",
+              "RelativeToolTip": "ManteHosLib\\Persistence\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:47:03.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\Persistence\\Entities\\Incident.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\Persistence\\Entities\\Incident.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\Persistence\\Entities\\Incident.cs",
+              "RelativeToolTip": "ManteHosLib\\Persistence\\Entities\\Incident.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:46:38.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Incident.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Incident.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\BusinessLogic\\Entities\\Incident.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Incident.cs",
+              "RelativeToolTip": "ManteHosLib\\BusinessLogic\\Entities\\Incident.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:33:50.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Operator.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\BusinessLogic\\Entities\\Operator.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Operator.cs",
+              "RelativeToolTip": "ManteHosLib\\BusinessLogic\\Entities\\Operator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T16:33:39.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Master.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\BusinessLogic\\Entities\\Master.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\Master.cs",
+              "RelativeToolTip": "ManteHosLib\\BusinessLogic\\Entities\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T14:58:57.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CloseWorkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\UnitTestExtra\\CloseWorkOrder.cs",
+              "RelativeDocumentMoniker": "UnitTestExtra\\CloseWorkOrder.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\UnitTestExtra\\CloseWorkOrder.cs",
+              "RelativeToolTip": "UnitTestExtra\\CloseWorkOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:29:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManteHosService.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Services\\ManteHosService.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\BusinessLogic\\Services\\ManteHosService.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Services\\ManteHosService.cs",
+              "RelativeToolTip": "ManteHosLib\\BusinessLogic\\Services\\ManteHosService.cs",
+              "ViewState": "AgIAABUBAAAAAAAAAAAuwNYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:22:13.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkOrder.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\WorkOrder.cs",
+              "RelativeDocumentMoniker": "ManteHosLib\\BusinessLogic\\Entities\\WorkOrder.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosLib\\BusinessLogic\\Entities\\WorkOrder.cs",
+              "RelativeToolTip": "ManteHosLib\\BusinessLogic\\Entities\\WorkOrder.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:45:23.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WorkOrderTest.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosObjectDesignTests\\WorkOrderTest.cs",
+              "RelativeDocumentMoniker": "ManteHosObjectDesignTests\\WorkOrderTest.cs",
+              "ToolTip": "C:\\Users\\usuario\\source\\repos\\ManteHos\\ManteHosObjectDesignTests\\WorkOrderTest.cs",
+              "RelativeToolTip": "ManteHosObjectDesignTests\\WorkOrderTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:17:40.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
